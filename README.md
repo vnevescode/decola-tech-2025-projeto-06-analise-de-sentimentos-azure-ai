@@ -6,7 +6,22 @@ Projeto de Análise de Sentimentos com Language Studio no Azure AI. Utilizei de 
 
 ---
 
-# Analise dos sentimentos nos textos
+# Conversão de Áudio em Texto [ Speech Studio ]
+
+Beseado no input do Áudio criado pelo Google translate e colocado em .mp3 o Speech studio fez a análise e trouxe o resultado esperado :
+
+```bash
+O Brasil é um país vibrante, repleto de diversidade cultural e natural. Conhecido por seu povo acolhedor e alegre, encanta com sua música, dança e culinária únicas. 
+Suas paisagens vão de praias paradisíacas a florestas exuberantes, como a Amazônia. A criatividade e resiliência dos brasileiros são inspirações para o mundo, é uma nação rica em cores, sabores e Esperança. 
+```
+
+
+![image](https://github.com/user-attachments/assets/cc996223-837f-46f5-9b24-5401691bc759)
+
+
+---
+
+# Analise dos sentimentos nos textos [ Language Studio ]
 
 Para o primeiro texto que simula um comentário de um usuário na plataforma Airbnb 
 
@@ -74,3 +89,13 @@ O language Studio avaliou como :
 ---
 
 # Resultados:
+
+Este projeto demonstrou com sucesso o uso das ferramentas do Microsoft Azure AI para análise de sentimentos e conversão de fala em texto. 
+
+O Speech Studio foi capaz de transcrever com precisão um áudio gerado artificialmente, mantendo a fidelidade do conteúdo, mesmo com entonações suaves e sem ruído. 
+
+Já o Language Studio se destacou na análise semântica de textos, conseguindo diferenciar tons sutis entre elogios disfarçados e críticas diretas. Tanto comentários simulados quanto avaliações reais de usuários foram bem interpretados pelo modelo, evidenciando a robustez da IA na compreensão de linguagem natural em português. 
+
+O projeto mostra o potencial dessas ferramentas para aplicações reais em plataformas de avaliação e atendimento ao cliente.
+
+---
